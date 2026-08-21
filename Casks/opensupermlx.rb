@@ -7,7 +7,7 @@ cask "opensupermlx" do
   desc "Real-time audio transcription for macOS powered by MLX on Apple Silicon"
   homepage "https://github.com/axot/OpenSuperMLX"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
   depends_on arch: :arm64
 
   app "OpenSuperMLX.app"
