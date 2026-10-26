@@ -1,6 +1,6 @@
 cask "opensupermlx" do
-  version "0.1.3"
-  sha256 "1672847ab0167fce49c5d180e4eb431c35d7e008cda50514bcdfaa52b7a00d39"
+  version "0.1.4"
+  sha256 "ca7bc99a45b482d141edcf1ae588bfb11980c6024655f1b5b60da879455c127d"
 
   url "https://github.com/axot/OpenSuperMLX/releases/download/#{version}/OpenSuperMLX.dmg"
   name "OpenSuperMLX"
